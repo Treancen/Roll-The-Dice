@@ -69,9 +69,6 @@ int main()
             			cout << "You got this one right: " << roll[guess] << endl;
             		}            	
             }
-
-            for (int )
-
             cout << "Do you want to roll the dice again?" << endl;
             cin >> answer;
 
